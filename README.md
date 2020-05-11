@@ -1,3 +1,12 @@
+## React Pokemon Game
+
+This is a simple Pokemon game using React that selects 4 random Pokemon cards, adds up the experience points, and outputs the outcome. To play the game:
+
+- Clone the repository locally
+- Run npm install
+- Run npm start
+- Visit localhost:3000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
